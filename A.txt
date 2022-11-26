@@ -7,3 +7,6 @@
 7 - HasHusCos Branch 
 8 - 
 9 - GitHub'a eklenecek.
+Git Ignore
+Kullanici Bilgileri
+Kullanici Sifreleri
